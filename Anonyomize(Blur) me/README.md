@@ -10,8 +10,18 @@ Practicle Applications of Anonymization :
 - Dataset curation and distribution (e.g., anonymize individuals in dataset)
 - … and more!
 
-Project Setup : 
+Project Architecture : 
 ============================================================================================
 <p align = "center">
 <img src="https://www.pyimagesearch.com/wp-content/uploads/2020/04/opencv_face_blurring_steps.png" width="500">
 </p>
+
+### Steps include : 
+- first detect faces and then perform face blurring in images and video streams.
+- The larger the kernel size, the more blurred the output face will be.
+- The second method we’ll be implementing for face blurring and anonymization creates a pixelated blur-like effect — an example of such a method can be seen
+
+<p align = "left">
+<img src="https://www.pyimagesearch.com/wp-content/uploads/2020/04/opencv_face_blurring_tom_king.jpg" width="700">
+</p>
+
