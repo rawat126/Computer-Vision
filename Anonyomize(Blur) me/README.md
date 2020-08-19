@@ -9,3 +9,7 @@ Practicle Applications of Anonymization :
 - Photo journalism and news reporting (e.g., blur faces of people who did not sign a waiver form)
 - Dataset curation and distribution (e.g., anonymize individuals in dataset)
 - … and more!
+
+Project Setup : 
+============================================================================================
+<img src : "https://www.pyimagesearch.com/wp-content/uploads/2020/04/opencv_face_blurring_steps.png" width = 400>
