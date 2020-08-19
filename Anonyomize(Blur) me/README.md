@@ -12,4 +12,4 @@ Practicle Applications of Anonymization :
 
 Project Setup : 
 ============================================================================================
-<img src : "https://www.pyimagesearch.com/wp-content/uploads/2020/04/opencv_face_blurring_steps.png" width = 400>
+<img src="https://www.pyimagesearch.com/wp-content/uploads/2020/04/opencv_face_blurring_steps.png" width="800">
