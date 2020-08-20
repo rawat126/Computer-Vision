@@ -1,0 +1,44 @@
+
+IOT Assignment 5
+
+Q1.) What are different measures to be used accordingly ?
+#Ans1 : As the world grapples with COVID-19, it’s
+critical that public agencies working to stop the
+spread of the virus are equipped to give their 
+communities timely and accurate information.
+Government agencies and non-profits are handling 
+large amounts of data that are changing rapidly, 
+and many of them are turning to Power BI to share 
+data about COVID-19 with communities in easy-to
+-understand maps and dashboards.
+
+Q2.) What can goverment do with power BI desktop ?
+#Ans2 : We’re providing a free Power BI toolkit for
+state and local governments that enables them to
+quickly publish up-to-date COVID-19 information for
+their localities. Both Power BI Desktop and the Power 
+BI Publish to Web capability are completely free, and
+our hope is they can be useful data tracking and 
+information sharing tools to agencies that are working 
+to combat COVID-19.
+
+Q3.) How to know about future with power BI in medical 
+Domain. Please Elaborate ?
+#Ans3 : Washington State Department of Health (DOH) has 
+published multiple interactive Power BI data dashboards. 
+Citizens can find current and cumulative case counts, 
+COVID-19 testing numbers, detailed demographics of those
+affected, and the curve showing the progression of the 
+virus in the state’s population. By making these 
+dashboards public, Washington State DOH is helping 
+citizens explore the data and answer questions.
+
+Q4.) Can we go with some other predictive measures 
+except this ?
+#Ans4 : The Victorian Department of Health & Human 
+Services in south-eastern Australia is using Azure and 
+Power BI extensively in its public health emergency 
+response and was able to quickly create this report 
+to share their local information. It’s a great example 
+of using data in this time of crisis to keep people 
+informed and safer.
