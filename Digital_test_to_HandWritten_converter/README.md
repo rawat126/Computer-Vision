@@ -34,7 +34,7 @@ Conclusion :
 The Output will led to generatio of Desired results with proper implementation.....
 ### This can be visualised in following :
 <p align = "center">
-<img src = "https://raw.githubusercontent.com/rawat126/Computer-Vision-projects/master/Digital_test_to_HandWritten_converter/sample_hanwritten.png", width = 1200>
+<img src = "https://raw.githubusercontent.com/rawat126/Computer-Vision-projects/master/Digital_test_to_HandWritten_converter/sample_hanwritten.png", width = 1500>
 </p>
 
 ### Thank You
