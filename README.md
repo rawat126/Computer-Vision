@@ -1,3 +1,2 @@
 # Computer-Vision
-======================================== 
 Vision for My machine..............
