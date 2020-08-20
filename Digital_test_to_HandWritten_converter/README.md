@@ -5,7 +5,7 @@ This is GUI based project which can convert Digital Text into Human Handwriting.
 Architecture
 ========================================
 <p align = "center">
-<img src = "https://raw.githubusercontent.com/rawat126/Computer-Vision-projects/master/model_archtecture.png", width = 700>
+<img src = "https://raw.githubusercontent.com/rawat126/Computer-Vision-projects/master/model_archtecture.png", width = 900>
 </p>
 
 Advantages :
