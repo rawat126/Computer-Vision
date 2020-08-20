@@ -11,8 +11,10 @@ Architecture
 Steps Required : 
 ======================================
 - firstly, make the proper dataset of images for Alphabets, special symbol, Numerics etc..
+
 <img src = "https://raw.githubusercontent.com/rawat126/Computer-Vision-projects/master/Digital_test_to_HandWritten_converter/smaple.png", width = 500>
 - The proper concatenation of Images according to the mapping of ASCII codes with digital-text, as shown
+
 <img src = "https://raw.githubusercontent.com/rawat126/Computer-Vision-projects/master/Digital_test_to_HandWritten_converter/smaple.png", width = 500>
 - The repetation of above steps leds to generation for final desired result.....
 
